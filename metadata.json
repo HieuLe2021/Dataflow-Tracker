@@ -1,0 +1,5 @@
+{
+  "name": "Dataflow Tracker",
+  "description": "A tool to monitor the status and history of Power Apps and Dataverse dataflows by fetching data from the Dataverse API.",
+  "requestFramePermissions": []
+}
